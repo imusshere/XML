@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STUDENT9B> 
+    <student id = "101">
+        <studentname>Muhammad Meesum</studentname>
+        <studentcourse>CPISM</studentcourse>
+        <teacher>Ma'am Fareeha</teacher>
+        <Fee>8000</Fee> 
+    </student>
+    <student id = "102">
+        <studentname>Osama</studentname>
+        <studentcourse>CPISM</studentcourse>
+        <teacher>Ma'am Fareeha</teacher>
+        <Fee>8500</Fee>
+    </student>
+    <student id = "103">
+        <studentname>Ali</studentname>
+        <studentcourse>CPISM</studentcourse>
+        <teacher>Ma'am Fareeha</teacher>
+        <Fee>8600</Fee>
+    </student>
+</STUDENT9B>
